@@ -119,5 +119,3 @@ This will create the `members` and `books` tables in your MySQL database.
   Ensure all dependencies are installed with `pip install -r requirements.txt`.
 
 
-```
-
